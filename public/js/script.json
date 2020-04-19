@@ -1,0 +1,115 @@
+{
+    "works" : [
+        {
+            "id" : 1 ,
+            "title" : "Ui Developer" ,
+            "icon" : "fa fa-facebook fa-lg " ,
+            "desc" : "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2 ,
+            "title" : "Web Developer" ,
+            "icon" : "fa fa-facebook fa-lg " ,
+            "desc" : "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3 ,
+            "title" : "Angular Developer" ,
+            "icon" : "fa fa-facebook fa-lg" ,
+            "desc" : "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ] ,
+
+    "portfolio" : [
+        {
+            "id" : 1 ,
+            "image" : "/images/portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id" : 2 ,
+            "image" : "/images/portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id" : 3 ,
+            "image" : "/images/portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id" : 4 ,
+            "image" : "/images/portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id" : 5 ,
+            "image" : "/images/portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id" : 6 ,
+            "image" : "/images/portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id" : 7 ,
+            "image" : "/images/portfolio/portfolio-img7.jpg"
+        },
+        {
+            "id" : 8 ,
+            "image" : "/images/portfolio/portfolio-img8.jpg"
+        }
+    ] ,
+    "information" :[
+        {
+            "id":1 ,
+            "name" : "Mohamed Magdy" ,
+            "birthDay" : "21/9/1992" ,
+            "address" : "Dubai" ,
+            "tel" :"+(971)-543-632-798" ,
+            "email" :"muhamedmagdi92@gmail.com" ,
+            "faceBook" : "www.google.com"
+        }
+    ],
+    "skills" : [
+        {
+            "id" : 1 ,
+            "skill" : "Bootstrap" ,
+            "percent" : "100%"
+        } ,
+        {
+            "id" : 2 ,
+            "skill" : "Angular" ,
+            "percent" : "80%"
+        },
+        {
+            "id" : 3 ,
+            "skill" : "Css" ,
+            "percent" : "70%"
+        },
+        {
+            "id" : 4 ,
+            "skill" : "JS" ,
+            "percent" : "80%"
+        },
+        {
+            "id" : 5 ,
+            "skill" : "React" ,
+            "percent" : "50%"
+        }
+    ],
+    "socialMedia" : [
+        {
+            "id" : 1 ,
+            "icon" : "fa fa-facebook fa-lg" ,
+            "desc" : "FACE BOOK"
+            
+        } ,
+         {
+            "id" : 2 ,
+            "icon" : "fa fa-twitter fa-lg" ,
+            "desc" : "TWITTER" 
+        } , 
+        {
+            "id" : 3 ,
+            "icon" : "fa fa-pinterest fa-lg" ,
+            "desc" : "PRINTEREST" 
+            
+        } 
+       
+        ]
+}
